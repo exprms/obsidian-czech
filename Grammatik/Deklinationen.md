@@ -12,7 +12,7 @@
 
 ### Maskulina unbelebt
 
-|Nominativ|Genitiv|Dativ|Akkusativ|Vokativ|Lokativ|Instrumental|
+| | Nominativ|Genitiv|Dativ|Akkusativ|Vokativ|Lokativ|Instrumental|
 |-- | --- | --- |---|---|---|---|---|
 | sg. | pá**n** | pán**a** | pán**u** | pán**a**| pan**e** | pán**u** | pán**em** |
 | pl. | pá**ni** | pán**ů** | pán**ům** | pán**y**| pan**i** | pán**ech** | pán**y** |
