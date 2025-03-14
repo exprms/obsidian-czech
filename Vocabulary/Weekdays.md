@@ -1,12 +1,12 @@
-| český  | německý   |
-|---|---|
-|pondělí|Montag|
-|úterý|Dienstag|
-|středa|Mittwoch|
-|čtvrtek|Donnerstag|
-|pátek|Freitag|
-|sobota|Samstag|
-|neděle|Sonntag|
+| český   | německý    |
+| ------- | ---------- |
+| pondělí | Montag     |
+| úterý   | Dienstag   |
+| středa  | Mittwoch   |
+| čtvrtek | Donnerstag |
+| pátek   | Freitag    |
+| sobota  | Samstag    |
+| neděle  | Sonntag    |
 
 
 ### gestern, heute, morgen, übermorgen
