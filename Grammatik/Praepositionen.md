@@ -1,3 +1,7 @@
+---
+tags:
+  - grammatik
+---
 Nach bestimmten Präpositionen steht das Substantiv immer in bestimmten Fällen:
 
 | Prep  |                          | Fall d. Substantives           | Beispiel |

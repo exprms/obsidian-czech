@@ -1,3 +1,12 @@
+---
+tags:
+  - grammatik
+  - accusative
+  - grammatik/accusative
+---
+
+Quelle: [[readme-textbook | Textbbok]]
+
 ### singular
 **Mi, N: akkusativ = nominativ**
 

@@ -1,6 +1,10 @@
+---
+tags:
+  - SlowCzech
+---
 
 ## Dnes je neděle – co dnes dělám?
-[SlowCzech #32](https://slowczech.com/dnes-je-nedele/)
+[listen to episode @ slowczech.com](https://slowczech.com/dnes-je-nedele/)
 
 | čislo | česky                                                                                               | neměcky                                                                                                               |     
 | :---: | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

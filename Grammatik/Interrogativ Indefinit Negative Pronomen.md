@@ -13,10 +13,10 @@ tags:
 #### Adverbien
 | | **Interrogativ** | **Indefinit** | **Negativ** |
 |:--| :--:|:--:|:--:|
-| wo |kde | někde | nikde |
-| wohin | kam | někam | nikam |
-| wann | kdy | někdy | nikdy |
-| wieviel | kolik | několik |  |
+| [[#kde - někde - nikde \| wo]] |kde | někde | nikde |
+| [[#kam - někam - nikam \| wohin]] | kam | někam | nikam |
+| [[#kdy - někdy - nikdy \| wann]] | kdy | někdy | nikdy |
+| [[#kolik - několik \| wieviel]] | kolik | několik |  |
 
 ### Beispielsätze
 #### kdo - někdo - nikdo
@@ -53,4 +53,25 @@ tags:
 - Je **někde** dole.  
 - Tady není **nikde**. **Nikde** ho nevidím.
 
-#### welche
+#### kam - někam - nikam
+- **Kam** obvykle [[#Vocabs| chodíš]] večer, když máš volno? 
+- Chceš jet **někam** na výlet příští týden?
+
+#### kdy - někdy - nikdy
+- **Kdy** obvykle vstáváš o víkendu?    
+- Piješ **někdy** čaj [[#Vocabs | místo ]] kávy? Kdy?
+
+#### kolik - několik
+- **Kolik** káv denně obvykle [[#Vocabs | vypiješ ]]?
+- Máte doma **několik** druhů čaje? Jaké? 
+- **Kolik** lidí obvykle chodí na tvé [[#Vocabs | oslavy]]?
+
+### Vocabs
+| český | německý |
+| --- | --- |
+| obvykle | üblicherweise |
+| oslava | Feier |
+| místo | anstatt |
+
+- Kolik káv denně obvykle **vypiješ**? = Wieviel Kaffe trinkst du täglich. Daher **vypiješ** ist irgendeine Form vom Zeitwort **pít = trinken**
+- Kam obvykle **chodíš** večer, když máš volno? Wohin gehst du normalerweise am abend wenn fdur frei hast. **chodíš** ist daher irgendeine best. Form von **jít** ? Glaube ich....

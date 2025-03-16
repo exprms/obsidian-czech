@@ -1,5 +1,12 @@
+---
+tags:
+  - SlowCzech
+---
 
-## Dnes je neděle – co dnes dělám?
+## *Title*
+[listen to episode @ slowczech.com]()
+
+### Phrases
 
 | čislo | česky | neměcky |
 |:---:| --- | --- |
@@ -10,4 +17,7 @@
 | 5| | |
 | 6| | |
 | 7| | |
+
+### Vocabs
+
 

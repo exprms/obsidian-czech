@@ -1,3 +1,7 @@
+---
+tags:
+  - vocabs/weekdays
+---
 | český   | německý    |
 | ------- | ---------- |
 | pondělí | Montag     |

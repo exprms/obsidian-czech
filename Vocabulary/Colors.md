@@ -1,3 +1,7 @@
+---
+tags:
+  - vocabs/colors
+---
 | Česky     | Neměcký   || Česky     | Neměcký   |
 |:---:      |:---:      |-| :---:      |:---:      |
 | bíly      | weiß      || černý     | schwarz   |

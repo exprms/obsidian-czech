@@ -1,3 +1,7 @@
+---
+tags:
+  - vocabs/kitchen
+---
 ## nádobí a příbor
 
 

@@ -3,6 +3,7 @@ tags:
   - excercise
   - accusative
   - dialogue
+  - textbook
 ---
 [[Akkusativ]] [[Dativ]] [[Vokativ]]
 # Texty strana 28 

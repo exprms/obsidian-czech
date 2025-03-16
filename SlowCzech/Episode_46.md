@@ -1,5 +1,10 @@
+---
+tags:
+  - SlowCzech
+---
 
 ## U doktora / u lékaře
+[listen to episode @ slowczech.com](https://slowczech.com/u-doktorau-lekare/)
 
 | čislo | česky | neměcky |
 |:---:| --- | --- |

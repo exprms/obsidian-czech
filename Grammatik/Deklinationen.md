@@ -1,3 +1,14 @@
+---
+tags:
+  - grammatik
+  - grammatik/deklinationen
+---
+
+Quelle: 
+> Tschechisch Einstiegskurs
+> Hueber Verlag GmbH & Co. KG
+> ISBN 978-3-19-037500-4
+
 ## Substantive
 ### Maskulina belebt
 
@@ -19,14 +30,10 @@
 | sg. | mu**ž** | mu**že** | mu**ži** | mu**že** | mu**ži** | mu**ži** | mu**žem** | 
 | pl. | mu**ži** | mu**žů** | mu**žům** | mu**že** | mu**ži** | mu**žích** | mu**ži** |
 
-#### Singular
-#### Plural
+
 ### Feminina
-#### Singular
-#### Plural
+
 ### Neutra
-#### Singular
-#### Plural
 
 ## Adjektive
 

@@ -1,4 +1,9 @@
+---
+tags:
+  - SlowCzech
+---
 ### Co vidíš? 
+[listen to episode @ slowczech.com](https://slowczech.com/co-vidis/)
 
 | čislo | český | neměcky |
 |:---:| --- | --- |

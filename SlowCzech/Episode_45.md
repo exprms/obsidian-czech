@@ -1,5 +1,10 @@
+---
+tags:
+  - SlowCzech
+---
 
 ## Doma
+[listen to episode @ slowczech.com](https://slowczech.com/doma/)
 
 | čislo | česky | neměcky |
 |:---:| --- | --- |

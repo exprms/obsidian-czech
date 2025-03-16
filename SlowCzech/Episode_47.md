@@ -1,4 +1,9 @@
+---
+tags:
+  - SlowCzech
+---
 ## Polední pauza
+[listen to episode @ slowczech.com](https://slowczech.com/poledni-pauza/)
 
 | čislo | český | anglický |
 |:---:| --- | --- |

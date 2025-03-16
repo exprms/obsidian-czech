@@ -1,3 +1,9 @@
+---
+tags:
+  - grammatik
+  - grammatik/lokativ
+  - lokativ
+---
 
 hier die *main rules* - Ausnahmen gibts ja immer
 
