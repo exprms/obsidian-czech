@@ -77,3 +77,33 @@ Länder meistens auch weil hartes **k** Rakous**k**o -> **v** Rakousk**u**
 | kavár**n**a      | v kavárn**ě**  | supermarket| v supermarket**u**   | kancelá**ř** | v kancelář**í**| 
 | fir**m**a      | ve firm**ě**     | metro | v metr**u**               | Itali**e** | v Itali**í** |
 | kavár**n**a      | v kavárn**ě**  | Čes**k**o | v Česk**u**           | | |
+
+
+### Weitere Beispiele
+
+| Nominativ         |                       | Präposition + Lokativ |
+| ----------------- | --------------------- | -------------------- |
+| divadlo           | Theater               | v divadle            |
+| dům               | Haus                  | v domě               |
+| hora, hory        | Berg, Berge           | na horách            |
+| hospoda           | Kneipe                | v hospodě            |
+| hrad              | Burg                  | na hradě             |
+| kancelář          | Büro                  | v kanceláři          |
+| kino              | Kino                  | v kině               |
+| kostel            | Kirche                | v kostele            |
+| letíště           | Flughafen             | na letíšti           |
+| město             | Stadt                 | ve městě             |
+| moře              | Meer                  | v moři               |
+| most              | Brücke                | na mostě             |
+| náměstí           | Platz                 | na náměstí           |
+| nemocnice         | Krankenhaus           | v nemocnici          |
+| obchod            | Geschäft              | v obchodě            |
+| práce             | Arbeit                | v práci              |
+| příroda           | Natur                 | v přírodě            |
+| restaurace        | Restaurant            | v restauraci         |
+| řeka              | Fluss                 | v řece               |
+| stanice, zastávka | Station, Haltestelle  | na stanici, zastávce |
+| škola             | Schule                | ve škole             |
+| ulice             | Strasse               | V / na ulici         |
+| vesnice           | Dorf                  | ve vesnici           |
+| zámek             | Schloss (Türschloss)  | na zámku             |
