@@ -3,7 +3,7 @@ tags:
   - vocabs/months
 ---
 
-|**zima**| |**leden**| |**léto**| |**podzim**| |
+|**zima**| |**jaro**| |**léto**| |**podzim**| |
 |---|---|---|---|---|---|---|---|
 |**prosinec**|Dezember|**březen**|März|**červen**|Juni|**září**|September|
 |**leden**|Jänner|**duben**|April|**červenec**|Juli|**říjen**|Oktober|
