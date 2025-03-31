@@ -4,14 +4,25 @@ tags:
   - accusative
   - dialogue
   - textbook
+  - grammatik/modalverbs
 ---
-[[Akkusativ]] [[Dativ]] [[Vokativ]]
+[[Akkusativ]] [[Dativ]] [[Vokativ]] [[Modalverbs]]
 # Texty strana 68 a 69 
 
 
 #### Čislo 1, Rezervace pokoje
 | čislo | neměcky                                    | česky                                                         |
 | :---: | ------------------------------------------ | ------------------------------------------------------------- |
+|01| Bitte. Hier ist Hotel Eurpoa | Prosím, tady je hotel Evropa. |
+|02| Guten Tag. Hier ist Novák. Ich würde gerne reservieren ein Zimmer für nächstes Wochenende | Dobrý den. Tady je Novák. Chtěl bych si rezervovat pokoy na příští víkend. |
+|03| Wollen sie Einzelziemmer oder Doppelzimmer? | Chcete jednolůžkový nebo dvoulůžkový? |
+|04| Einzelzimmer. Hat es ein Bad? | Jednolůžkový. Má koupeln**u**? |
+|05| Selbstverständlich | Szamozřejmě |
+|06| Wieviel kostet eine Nacht? | Kolik stojí jedna noc? |
+|07| 400 Kronen | 400 korun |
+|08| Gut | Dobře |
+|09| Können sie ihren Namen wiederholen? | [[Modalverbs \|Můžete opakovat]] vaše jméno? |
+|10| Danke. Freut mich, auf Wiedersehen | Těším se na shledanou |
 
 
 #### Čislo 2, V hotelu Evropa
@@ -42,10 +53,14 @@ Pavel, Lenka, čišnice, vrchní
 |16| Č: Tomaten und Gurkensalat. | Rajčatový a okurkový |
 |17| L: Dann zweimal Gurkensalat. | Tak dvakrát okurkový salát. |
 |18| P: Isst du auch eine Nachspeise, Lenka? | Dáš si zákusek, Lenko? |
-|19| L: Pavel, du weisst dass ich nicht darf. Ich möchte nicht dick sein. | Pavle, víš, že nesmím. Nechci být tlustá |
-|20| ... | |
+|19| L: Pavel, du weisst dass ich nicht darf. Ich möchte nicht dick sein. | Pavle, víš, že [[Modalverbs \| nesmím ]]. [[Modalverbs \| Nechci být ]] tlustá |
+|20| P: Aber geh! Am Abend können wir Übungen machen. Ich nehme Eis. Sollen wir Schokoladeneis oder Vanilleis nehmen? | Ale jdi! Večer [[Modalverbs \| můžeme jít ]] cvičit. Já si dám zmrzlinu. [[Modalverbs \| Mám si dát ]] čokoládovou nebo vanilkovou? |
+|21| L: Schokoladeneis. Aber wir nehmen beide Kaffee. | Čokoladovou. Ale kávu si dáme oba. |
+|22| P: Herr Ober! Ich zahle. |Pane vrchní, platím |
+|23| V: Bitte, hier die Rechnung | Prosím tady je váš účet |
 
 ### Notizen
 hranolek - hranolky - Pommes Frittes
 smažený - gebacken, gebraten -> offenbar nicht ganz so eindeutig
 rajská polevka - Tomatensuppe -> Akkusativ rajskou polevku
+Szamozřejmě - Selbstverständlich
