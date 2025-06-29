@@ -4,4 +4,8 @@ tags:
   - grammatik/genitiv
   - genitiv
 ---
-fgydfgfdygydf
+Quelle: [[readme-textbook | Textbbok]]
+
+### singular
+
+![[screenshot_genitiv.png]]
