@@ -8,7 +8,7 @@ tags:
 
 ### Phrases
 
-| čislo | česky | neměcky |
+| čislo | neměcky | česky |
 |:---:| --- | --- |
 | 1| | |  
 | 2| | | 
@@ -20,4 +20,6 @@ tags:
 
 ### Vocabs
 
-
+| neměcky | česky |
+| --- | --- |
+| | |
