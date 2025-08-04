@@ -10,6 +10,7 @@ hier die *main rules* - Ausnahmen gibts ja immer
 **`v, ve`**: drinnen
 **`na`**: auf, drauf (Oberfläche) z.B. mit matratze schwimmen na moři, sonst im wasser schwimmne: ve moři 
 
+# Nouns
 
 #### Maskulin
 harte od. neutrale Konsonanten -> **`-E`** oder **`-Ě`**, manchmal **`-U`**
@@ -107,3 +108,48 @@ Länder meistens auch weil hartes **k** Rakous**k**o -> **v** Rakousk**u**
 | ulice             | Strasse               | V / na ulici         |
 | vesnice           | Dorf                  | ve vesnici           |
 | zámek             | Schloss (Türschloss)  | na zámku             |
+
+---
+# Adjectives
+Quelle: GPT
+
+### 📚 Locative Adjective Endings (Singular)
+
+|Gender|Example Adjective|Ending|Example Phrase|
+|---|---|---|---|
+|**Masculine** (animate & inanimate)|nový|**-ém**|_o **novém** učiteli_ (about the new teacher)|
+|**Feminine**|nová|**-é**|_v **nové** škole_ (in the new school)|
+|**Neuter**|nové|**-ém**|_v **novém** městě_ (in the new city)|
+
+So, for hard-pattern adjectives like **nový** (_new_), the endings are:
+- **-ém** for masculine and neuter
+- **-é** for feminine
+
+### 🧠 Plural: Locative Adjective Endings
+
+For **all genders**, the **plural locative ending** is:
+- **-ých** 
+
+|Gender|Example|
+|---|---|
+|Masculine|o **nových** učitelích – _about new teachers_|
+|Feminine|v **nových** školách – _in new schools_|
+|Neuter|v **nových** městech – _in new cities_|
+
+### Summary Table
+
+|Gender/Number|Adjective Ending|Example|
+|---|---|---|
+|Masculine sg.|**-ém**|o **dobrém** filmu|
+|Feminine sg.|**-é**|v **dobré** škole|
+|Neuter sg.|**-ém**|v **dobrém** městě|
+|All plural|**-ých**|o **dobrých** lidech|
+
+### Common Prepositions That Trigger Locative
+
+|Preposition|Meaning|Example|
+|---|---|---|
+|**v / ve**|in|**v novém obchodě** – in the new shop|
+|**na**|on / at|**na dobré univerzitě** – at a good university|
+|**o**|about|**o zajímavém článku** – about an interesting article|
+|**po**|after / around|**po dlouhém dni** – after a long day|
