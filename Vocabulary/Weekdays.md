@@ -4,15 +4,17 @@ tags:
 ---
 Bei Wochentagen auf die Frage **WANN = KDY** kommt [[Akkusativ]]!
 
-| **týden**   | **Woche**    | **Kdy?** |
-| ------- | ---------- | --- |
-| pondělí | Montag     | v pndělí |
-| úterý   | Dienstag   | v úterý |
-| středa  | Mittwoch   | ve střed**u** |
-| čtvrtek | Donnerstag | ve čtvrtek |
-| pátek   | Freitag    | v pátek |
-| sobota  | Samstag    | v sobot**u** |
-| neděle  | Sonntag    | v neděli |
+Auf Zeitangaben **VON - BIS = OD - DO** kommt [[Genitiv]]!
+
+| **týden** | **Woche**  | **Kdy?**      | **od... / do ...** |
+| --------- | ---------- | ------------- | --- |
+| pondělí   | Montag     | v pondělí     | od/do pondělí |
+| úterý     | Dienstag   | v úterý       | od/do úterý |
+| středa    | Mittwoch   | ve střed**u** | od/do střed**y** |
+| čtvrtek   | Donnerstag | ve čtvrtek    | od/do čvrt**ka** |
+| pátek     | Freitag    | v pátek       | od/do pátek |
+| sobota    | Samstag    | v sobot**u**  | od/do sobot**y** |
+| neděle    | Sonntag    | v neděli      | od/do neděle |
 
 
 ### gestern, heute, morgen, übermorgen
