@@ -3,10 +3,10 @@
 | Hallo Zusammen, neuer Podcast ist da. Heute werden wir haben Thema Familie.     | Ahoj všem, nový podcast je tady. Dnes [[Futur \| budeme]] mít téma rodina.                                |
 | Familie. Was ist Familie?                                                       | Rodina. Co je to rodina?                                                                                  |
 | Familie ist, Mutter, Vater, Kinder, Oma, Opa, Tante Onkel, vielleicht Tierchen. | Rodina to je maminka, tatínek, děti, babička dědeček, teta strýc možná zvířátko.                          |
-| Familie, das sind Menschen, die man gern hat.                                   | Rodina to jsou lidi, které máme rádi.                                                                     |
+| Familie, das sind Menschen, die wir gern haben.                                 | Rodina to jsou lidi, které máme rádi.                                                                     |
 | Familie, das sind Menschen die uns nahe stehen.                                 | Rodina to jsou [[Genitiv \| lidé]], kteří jsou [[Dativ \| nám]] blízcí.                                   |
 | Familie ist wichtig im Leben eines Menschen.                                    | Rodina je důležitá [[Lokativ \| v životě]] [[Genitiv \| člověka]].                                        |
-| Jeder Mensch möchte jemanden nahe haben.                                        | Každý člověk chce mít někoho blízkého.                                                                    |
+| Jeder Mensch möchte jemanden nahe haben.                                        | Každý člověk chce mít [[Akkusativ \| někoho blízkého]].                                                   |
 | Jeder Mensch möchte haben Familie.                                              | Každý člověk chce mít rodinu.                                                                             |
 | Nicht jeder Mensch hat Familie.                                                 | Ne každý člověk rodinu má.                                                                                |
 | Manche haben keine Mama, Papa, Bruder, Schwester.                               | Někdo nemá maminku tatínka bratra sestru.                                                                 |

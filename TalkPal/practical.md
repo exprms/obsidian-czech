@@ -10,6 +10,7 @@
 | Nein ich kann nicht kochen. Das macht meine Frau.          | Ne, neumím vařit. To dělá moje manželka. |
 | Was magst du gerne machen mit deiner Frau in der Freizeit. | Co rád děláš s manželkou ve volném čase? |
 | Was macht ihr gerne gemeinsam zu hause?                    | Co rádi děláte spolu doma?               |
+| Heute möchte ich über Familie sprechen.                    | Dnes chci mluvít o rodině.               |
 
 
 ### Vocabs
