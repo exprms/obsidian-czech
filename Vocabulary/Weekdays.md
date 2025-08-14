@@ -6,15 +6,15 @@ Bei Wochentagen auf die Frage **WANN = KDY** kommt [[Akkusativ]]!
 
 Auf Zeitangaben **VON - BIS = OD - DO** kommt [[Genitiv]]!
 
-| **týden** | **Woche**  | **Kdy?**      | **od... / do ...** |
-| --------- | ---------- | ------------- | --- |
-| pondělí   | Montag     | v pondělí     | od/do pondělí |
-| úterý     | Dienstag   | v úterý       | od/do úterý |
-| středa    | Mittwoch   | ve střed**u** | od/do střed**y** |
-| čtvrtek   | Donnerstag | ve čtvrtek    | od/do čvrt**ka** |
-| pátek     | Freitag    | v pátek       | od/do pátek |
-| sobota    | Samstag    | v sobot**u**  | od/do sobot**y** |
-| neděle    | Sonntag    | v neděli      | od/do neděle |
+| **týden**   | **Woche**  | **Kdy?**      | **od... / do ...** |
+| ----------- | ---------- | ------------- | ------------------ |
+| pondělí (n) | Montag     | v pondělí     | od/do pondělí      |
+| úterý (n)   | Dienstag   | v úterý       | od/do úterý        |
+| středa (f)  | Mittwoch   | ve střed**u** | od/do střed**y**   |
+| čtvrtek (m) | Donnerstag | ve čtvrtek    | od/do čvrt**ka**   |
+| pátek (m)   | Freitag    | v pátek       | od/do pátek        |
+| sobota (f)  | Samstag    | v sobot**u**  | od/do sobot**y**   |
+| neděle (f)  | Sonntag    | v neděli      | od/do neděle       |
 
 
 ### gestern, heute, morgen, übermorgen

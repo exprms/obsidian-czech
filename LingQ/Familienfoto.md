@@ -27,7 +27,8 @@ Jemand erzählt über ein Familienfoto und wird zwischendurch gefragt.
 
 ### Vocabs
 
-| neměcký | český |
-| --- | --- |
-| Foto | fotka (f) |
+| neměcký      | český     |
+| ------------ | --------- |
+| Foto         | fotka (f) |
+| Onkel (ugs.) | strejda   |
 
