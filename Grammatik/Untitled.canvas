@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8e07dccf74200136","x":-400,"y":-140,"width":250,"height":60,"type":"text","text":"Nominativ\nfdfdf"},
+		{"id":"20bb180cae47ca61","x":-440,"y":100,"width":250,"height":60,"type":"text","text":"Akkusativ\n..."}
+	],
+	"edges":[
+		{"id":"d2db143cd52f3186","fromNode":"20bb180cae47ca61","fromSide":"top","toNode":"8e07dccf74200136","toSide":"bottom"}
+	]
+}
