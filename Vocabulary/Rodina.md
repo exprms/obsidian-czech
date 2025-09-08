@@ -4,6 +4,13 @@ tags:
   - vocabs/family
 ---
 
+Passende Verweise:
+- [[UE_Familien_Foto | Text über Familienfoto]]
+- [[UE_me | Text über mich]]
+- [[Familienfoto | LingQ Podcast Familienfoto]]
+
+
+
 ![[rodina.jpg]]
 
 | český      | neměcký         |     |
